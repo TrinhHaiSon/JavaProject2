@@ -16,6 +16,7 @@ public class NewClass1 {
     public NewClass1(int a, int b) {
         this.a = a;
         this.b = b;
+        int c = a+b;
         int d = a*b;
     }
     
