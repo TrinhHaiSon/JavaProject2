@@ -10,5 +10,13 @@ package javaproject2;
  * @author root
  */
 public class NewClass1 {
+    private int a;
+    private int b;
+
+    public NewClass1(int a, int b) {
+        this.a = a;
+        this.b = b;
+    }
+    
     
 }
